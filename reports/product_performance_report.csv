@@ -1,0 +1,151 @@
+product_id,product_name,category,price,stock,brand,view_count,cart_count,purchase_count,estimated_sales_value
+P0078,Mixer Grinder,Home Appliances,17531,68,Apple,15,2,8,140248
+P0093,Vacuum Cleaner,Home Appliances,24483,27,Nike,10,2,7,171381
+P0024,Wireless Mouse,Electronics,33475,34,Samsung,6,2,6,200850
+P0041,Laptop Stand,Accessories,2552,79,Apple,12,3,6,15312
+P0006,Tablet,Electronics,21814,52,Nike,10,0,6,130884
+P0042,Mobile Cover,Accessories,41563,87,Lenovo,11,0,6,249378
+P0034,Laptop Stand,Accessories,21957,12,Nike,12,4,6,131742
+P0117,Business Analytics,Books,25162,76,Generic,9,3,6,150972
+P0112,Computer Fundamentals,Books,19967,58,Samsung,12,4,6,119802
+P0109,Mathematics Guide,Books,29578,99,Sony,7,2,6,177468
+P0126,Yoga Mat,Sports,6528,95,Sony,11,4,6,39168
+P0107,Business Analytics,Books,3634,16,Boat,9,2,5,18170
+P0127,Football,Sports,36662,7,Generic,8,4,5,183310
+P0101,Data Science Handbook,Books,38629,27,Dell,8,2,5,193145
+P0055,Sunglasses,Fashion,36021,20,Apple,1,3,5,180105
+P0066,Sunglasses,Fashion,49717,92,HP,9,2,5,248585
+P0014,Webcam,Electronics,8786,36,Nike,12,6,5,43930
+P0030,Mobile Cover,Accessories,27120,5,Sony,13,1,4,108480
+P0013,Speaker,Electronics,3582,26,Lenovo,5,2,4,14328
+P0003,Tablet,Electronics,38560,55,Nike,8,2,4,154240
+P0100,Electric Kettle,Home Appliances,13648,8,Generic,9,2,4,54592
+P0102,Business Analytics,Books,9870,100,Samsung,11,5,4,39480
+P0142,Cricket Bat,Sports,49097,67,Dell,10,0,4,196388
+P0040,Power Bank,Accessories,20952,80,Nike,8,1,4,83808
+P0134,Badminton Racket,Sports,7729,97,Lenovo,13,3,4,30916
+P0125,Python Programming,Books,6178,10,Apple,7,2,4,24712
+P0143,Yoga Mat,Sports,27714,58,Sony,3,2,4,110856
+P0114,Python Programming,Books,32330,91,Nike,8,5,4,129320
+P0103,Business Analytics,Books,9682,16,Generic,10,2,4,38728
+P0115,Python Programming,Books,5494,41,HP,9,1,4,21976
+P0054,Sunglasses,Fashion,815,59,Lenovo,7,1,4,3260
+P0023,Tablet,Electronics,4775,35,Boat,15,4,4,19100
+P0069,Sunglasses,Fashion,8812,11,Lenovo,9,4,4,35248
+P0081,Mixer Grinder,Home Appliances,44426,29,Nike,14,3,4,177704
+P0067,Sunglasses,Fashion,6567,80,Samsung,8,2,4,26268
+P0150,Cricket Bat,Sports,22821,55,Apple,7,0,4,91284
+P0029,Charger,Accessories,15850,73,Boat,4,1,4,63400
+P0063,Watch,Fashion,49035,63,Lenovo,9,2,3,147105
+P0008,Laptop,Electronics,30007,11,Sony,5,5,3,90021
+P0002,Webcam,Electronics,42897,56,Lenovo,10,5,3,128691
+P0059,Jacket,Fashion,7189,30,Boat,10,1,3,21567
+P0089,Vacuum Cleaner,Home Appliances,48902,89,Generic,6,5,3,146706
+P0116,Python Programming,Books,8470,35,Generic,9,2,3,25410
+P0091,Washing Machine,Home Appliances,43120,12,Nike,4,5,3,129360
+P0064,Jeans,Fashion,39984,45,Dell,10,1,3,119952
+P0130,Cricket Bat,Sports,19050,76,Lenovo,11,0,3,57150
+P0119,Python Programming,Books,46191,14,Generic,3,5,3,138573
+P0131,Badminton Racket,Sports,6989,73,Generic,8,1,3,20967
+P0133,Football,Sports,7292,44,Generic,6,3,3,21876
+P0095,Vacuum Cleaner,Home Appliances,24273,69,Sony,6,4,3,72819
+P0012,Webcam,Electronics,23909,79,Nike,10,1,3,71727
+P0015,Speaker,Electronics,8157,3,Dell,10,2,3,24471
+P0021,Monitor,Electronics,30135,70,HP,9,2,3,90405
+P0022,Headphones,Electronics,12691,76,Generic,11,2,3,38073
+P0036,Charger,Accessories,9647,52,HP,10,3,3,28941
+P0032,Power Bank,Accessories,43695,83,HP,5,3,3,131085
+P0039,Charger,Accessories,5463,42,Generic,12,4,3,16389
+P0061,Sunglasses,Fashion,19548,2,Boat,7,0,3,58644
+P0082,Mixer Grinder,Home Appliances,40802,71,Sony,12,1,3,122406
+P0085,Vacuum Cleaner,Home Appliances,26958,14,HP,9,5,3,80874
+P0077,Electric Kettle,Home Appliances,24171,11,Boat,8,5,3,72513
+P0074,Sunglasses,Fashion,22398,14,Nike,10,3,3,67194
+P0031,Charger,Accessories,31196,90,Boat,15,6,3,93588
+P0044,Laptop Bag,Accessories,41733,90,Apple,5,1,3,125199
+P0118,Business Analytics,Books,29934,64,Boat,6,3,3,89802
+P0028,Power Bank,Accessories,30041,41,Dell,11,2,3,90123
+P0104,Business Analytics,Books,11635,14,Samsung,6,3,3,34905
+P0106,Computer Fundamentals,Books,21418,2,HP,9,3,3,64254
+P0016,Tablet,Electronics,20565,70,Samsung,10,4,2,41130
+P0020,Keyboard,Electronics,27429,61,Nike,14,2,2,54858
+P0144,Football,Sports,24451,39,Sony,7,5,2,48902
+P0146,Football,Sports,10516,96,Samsung,6,3,2,21032
+P0149,Badminton Racket,Sports,14327,96,Generic,10,3,2,28654
+P0121,Mathematics Guide,Books,22412,58,Boat,6,5,2,44824
+P0137,Cricket Bat,Sports,40111,84,Lenovo,10,1,2,80222
+P0128,Skipping Rope,Sports,21803,85,Apple,6,6,2,43606
+P0111,Computer Fundamentals,Books,14719,78,Samsung,5,4,2,29438
+P0113,Python Programming,Books,31590,51,Boat,7,1,2,63180
+P0009,Keyboard,Electronics,21386,14,Boat,10,1,2,42772
+P0004,Smartphone,Electronics,31002,44,Boat,3,0,2,62004
+P0073,Jeans,Fashion,17040,61,Lenovo,4,5,2,34080
+P0075,T-Shirt,Fashion,9424,96,Dell,9,2,2,18848
+P0084,Vacuum Cleaner,Home Appliances,30626,89,Lenovo,7,4,2,61252
+P0047,USB Cable,Accessories,23692,47,Boat,7,5,2,47384
+P0046,Laptop Bag,Accessories,3214,41,Samsung,6,2,2,6428
+P0033,Power Bank,Accessories,2626,16,Generic,5,1,2,5252
+P0122,Mathematics Guide,Books,48015,12,Sony,9,4,2,96030
+P0056,Jacket,Fashion,22846,75,Lenovo,2,5,2,45692
+P0035,Laptop Bag,Accessories,34668,58,Samsung,11,1,2,69336
+P0038,USB Cable,Accessories,41045,88,Boat,8,3,2,82090
+P0027,USB Cable,Accessories,21986,70,Generic,7,1,2,43972
+P0026,Mobile Cover,Accessories,29464,68,Nike,9,5,2,58928
+P0045,Power Bank,Accessories,11102,88,Lenovo,15,7,2,22204
+P0043,Mobile Cover,Accessories,49140,11,Boat,13,2,2,98280
+P0096,Mixer Grinder,Home Appliances,26292,35,Dell,10,3,2,52584
+P0097,Mixer Grinder,Home Appliances,30000,11,Dell,13,2,2,60000
+P0108,Computer Fundamentals,Books,7648,95,Apple,11,1,2,15296
+P0123,Mathematics Guide,Books,20681,85,Lenovo,12,4,2,41362
+P0072,Shoes,Fashion,34989,64,Lenovo,4,1,2,69978
+P0076,Vacuum Cleaner,Home Appliances,47662,86,Boat,4,0,2,95324
+P0058,Jacket,Fashion,19999,25,Boat,3,1,2,39998
+P0083,Electric Kettle,Home Appliances,14707,82,Apple,10,5,2,29414
+P0062,Shoes,Fashion,730,72,Samsung,8,4,2,1460
+P0048,Mobile Cover,Accessories,16203,67,Boat,6,4,2,32406
+P0051,Watch,Fashion,44969,30,Nike,9,2,2,89938
+P0060,Watch,Fashion,23724,73,Lenovo,7,1,2,47448
+P0065,Sunglasses,Fashion,12660,79,Lenovo,12,4,2,25320
+P0110,Computer Fundamentals,Books,39106,13,Nike,7,4,2,78212
+P0092,Electric Kettle,Home Appliances,26946,35,Samsung,7,3,2,53892
+P0105,Data Science Handbook,Books,1173,45,Dell,5,3,2,2346
+P0053,Sunglasses,Fashion,16844,58,Lenovo,8,2,2,33688
+P0145,Skipping Rope,Sports,39274,10,Samsung,6,1,1,39274
+P0079,Washing Machine,Home Appliances,24355,86,Lenovo,8,2,1,24355
+P0086,Mixer Grinder,Home Appliances,2638,38,Nike,10,2,1,2638
+P0017,Webcam,Electronics,26938,11,Dell,9,3,1,26938
+P0011,Speaker,Electronics,27282,6,Dell,8,3,1,27282
+P0005,Wireless Mouse,Electronics,21240,85,Apple,8,4,1,21240
+P0019,Speaker,Electronics,47163,37,Generic,6,0,1,47163
+P0132,Football,Sports,10340,84,Nike,7,0,1,10340
+P0129,Yoga Mat,Sports,23373,85,Boat,6,4,1,23373
+P0099,Mixer Grinder,Home Appliances,22056,31,HP,10,3,1,22056
+P0124,Business Analytics,Books,10203,87,Nike,8,2,1,10203
+P0148,Yoga Mat,Sports,39985,56,Boat,12,4,1,39985
+P0057,Sunglasses,Fashion,28007,88,Lenovo,13,2,1,28007
+P0071,Jeans,Fashion,8861,100,Generic,11,4,1,8861
+P0052,Watch,Fashion,9579,29,Nike,10,12,1,9579
+P0037,Laptop Bag,Accessories,30968,100,Lenovo,7,3,1,30968
+P0049,Laptop Stand,Accessories,44882,23,HP,8,1,1,44882
+P0050,Mobile Cover,Accessories,5375,78,Boat,11,1,1,5375
+P0025,Keyboard,Electronics,47782,38,Nike,14,1,1,47782
+P0068,Shoes,Fashion,29089,4,Sony,9,1,1,29089
+P0087,Mixer Grinder,Home Appliances,6569,30,Generic,6,6,1,6569
+P0090,Washing Machine,Home Appliances,38691,95,HP,9,2,1,38691
+P0094,Washing Machine,Home Appliances,15673,46,Apple,18,6,1,15673
+P0120,Data Science Handbook,Books,28385,57,Dell,4,0,1,28385
+P0136,Skipping Rope,Sports,40411,86,Generic,10,2,1,40411
+P0010,Webcam,Electronics,275,84,Generic,10,3,0,0
+P0001,Laptop,Electronics,49762,22,Nike,2,2,0,0
+P0018,Smartphone,Electronics,30441,15,HP,5,2,0,0
+P0007,Keyboard,Electronics,43623,51,Generic,4,1,0,0
+P0080,Electric Kettle,Home Appliances,25170,81,Sony,6,1,0,0
+P0070,Shoes,Fashion,49186,53,HP,7,2,0,0
+P0088,Microwave,Home Appliances,25670,58,Sony,10,5,0,0
+P0098,Vacuum Cleaner,Home Appliances,42109,76,Samsung,6,5,0,0
+P0141,Cricket Bat,Sports,9497,94,Samsung,6,3,0,0
+P0138,Cricket Bat,Sports,12023,34,Lenovo,14,2,0,0
+P0135,Skipping Rope,Sports,15021,54,Generic,12,5,0,0
+P0140,Football,Sports,37314,84,Boat,10,2,0,0
+P0139,Badminton Racket,Sports,23204,0,HP,10,4,0,0
+P0147,Cricket Bat,Sports,18032,56,Boat,14,4,0,0

@@ -1,0 +1,11 @@
+product_id,product_name,category,price,purchase_count
+P0078,Mixer Grinder,Home Appliances,17531,8
+P0093,Vacuum Cleaner,Home Appliances,24483,7
+P0006,Tablet,Electronics,21814,6
+P0042,Mobile Cover,Accessories,41563,6
+P0041,Laptop Stand,Accessories,2552,6
+P0024,Wireless Mouse,Electronics,33475,6
+P0112,Computer Fundamentals,Books,19967,6
+P0109,Mathematics Guide,Books,29578,6
+P0117,Business Analytics,Books,25162,6
+P0126,Yoga Mat,Sports,6528,6
